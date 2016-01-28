@@ -27,12 +27,13 @@ and any of these commands
 <img src="https://raw.githubusercontent.com/ermakovpetr/ipython-anybar/master/screen_start.png" width="500">
 
 ## Requirements
-* Mac OS utility: **AnyBar**
+* **For Mac**: **AnyBar**
 
 You can install it: `brew cask install anybar`
 
 More info this: https://github.com/tonsky/AnyBar
 
+* **For Linux with Unity**: see this port https://github.com/limpbrains/somebar
 * Python package on computer/server with ipython: **pyAnyBar**
 
 You can install it: `pip install pyanybar`
