@@ -2,6 +2,10 @@
 
 Now you can see when your cell is performed ;)
 
+Notification of the end of code execution.
+
+*If you liked this extension, put a* **star** *this repo*
+
 ## How to install extension?
 
 Run in ipython this command:
