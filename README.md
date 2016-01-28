@@ -34,3 +34,7 @@ More info this: https://github.com/tonsky/AnyBar
 You can install it: `pip install pyanybar`
 
 More info this: https://github.com/philipbl/pyAnyBar
+
+## Enjoy
+
+*Write your suggestions for improvement and bug reports in this repo*
