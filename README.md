@@ -10,7 +10,7 @@ Run in ipython this command:
 
 Run in ipython two commands:
 
-```%load_ext ipython_anybar_ext```
+```%load_ext ipython_anybar```
 
 and any of these commands
 
@@ -19,13 +19,13 @@ and any of these commands
 3. ```%ipython_anybar_connect [my mac host] [anybar port]```
 
 ## Requirements
-1. Mac util: *AnyBar*
+* Mac OS utility: **AnyBar**
 
 You can install it: `brew cask install anybar`
 
 More info this: https://github.com/tonsky/AnyBar
 
-2. Python package on computer/server with ipython: **pyanybar**
+* Python package on computer/server with ipython: **pyAnyBar**
 
 You can install it: `pip install pyanybar`
 
