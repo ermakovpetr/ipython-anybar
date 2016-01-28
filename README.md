@@ -1,12 +1,14 @@
 # ipython-anybar
 
-## How install extension?
+Now you can see when your cell is performed ;)
+
+## How to install extension?
 
 Run in ipython this command:
 
 ```%install_ext https://raw.githubusercontent.com/ermakovpetr/ipython-anybar/master/ipython_anybar.py```
 
-## How run extension?
+## How to run extension?
 
 Run in ipython two commands:
 
