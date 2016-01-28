@@ -20,6 +20,8 @@ and any of these commands
 2. ```%ipython_anybar_connect [anybar port]``` default host = localhost
 3. ```%ipython_anybar_connect [my mac host] [anybar port]```
 
+<img src="https://raw.githubusercontent.com/ermakovpetr/ipython-anybar/master/screen_start.png" width="500">
+
 ## Requirements
 * Mac OS utility: **AnyBar**
 
