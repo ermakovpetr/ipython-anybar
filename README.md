@@ -16,8 +16,8 @@ Run in ipython two commands:
 
 and any of these commands
 
-1. ```%ipython_anybar_connect``` default host and port = localhost, 1738
-2. ```%ipython_anybar_connect [anybar port]``` default host = localhost
+1. ```%ipython_anybar_connect``` *default host and port = localhost, 1738*
+2. ```%ipython_anybar_connect [anybar port]``` *default host = localhost*
 3. ```%ipython_anybar_connect [my mac host] [anybar port]```
 
 <img src="https://raw.githubusercontent.com/ermakovpetr/ipython-anybar/master/screen_start.png" width="500">
