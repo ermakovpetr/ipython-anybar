@@ -14,6 +14,10 @@ Run in ipython this command:
 
 ## How to run extension?
 
+Run AnyBar
+
+```ANYBAR_PORT=1740 open -na AnyBar```
+
 Run in ipython two commands:
 
 ```%load_ext ipython_anybar```
